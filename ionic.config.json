@@ -1,5 +1,7 @@
 {
   "name": "useragent",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
